@@ -3,7 +3,7 @@ import Carro from "./Carro";
 function Garagem() {
   return (
     <div>
-      <h1>Garagem de Indio</h1>
+      <h1>Garagem da Labenu</h1>
       <Carro />
       <Carro />
       <Carro />
